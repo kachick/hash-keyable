@@ -17,4 +17,3 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'declare', '~> 0.0.5'
   gem.add_development_dependency 'yard', '~> 0.8'
 end
-
