@@ -1,6 +1,9 @@
 hash-keyable
 =============
 
+[![Build Status](https://secure.travis-ci.org/kachick/hash-keyable.png)](http://travis-ci.org/kachick/hash-keyable)
+[![Gem Version](https://badge.fury.io/rb/hash-keyable.png)](http://badge.fury.io/rb/hash-keyable)
+
 Description
 ------------
 
@@ -49,7 +52,7 @@ p HASH.key? bar #=> true
 Requirements
 -------------
 
-* Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/hash-keyable)
+* [Ruby - 1.9.3 or later](http://travis-ci.org/#!/kachick/hash-keyable)
 
 Install
 -------
@@ -57,11 +60,6 @@ Install
 ```bash
 gem install hash-keyable
 ```
-
-Build Status
-------------
-
-[![Build Status](https://secure.travis-ci.org/kachick/hash-keyable.png)](http://travis-ci.org/kachick/hash-keyable)
 
 Link
 ----
@@ -78,4 +76,3 @@ License
 The MIT X11 License  
 Copyright (c) 2012 Kenichi Kamiya  
 See MIT-LICENSE for further details.
-
