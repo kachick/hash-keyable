@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.description   = %q{Tiny template for Hash keys.}
   gem.summary       = gem.description.dup
   gem.license       = 'MIT'
-  gem.version       = '0.0.1'
+  gem.version       = '0.0.2'
 
   gem.required_ruby_version = '>= 1.9.3'
   gem.add_development_dependency 'declare', '~> 0.0.6'
