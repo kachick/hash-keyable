@@ -1,8 +1,9 @@
 hash-keyable
 =============
 
-[![Build Status](https://secure.travis-ci.org/kachick/hash-keyable.png)](http://travis-ci.org/kachick/hash-keyable)
-[![Gem Version](https://badge.fury.io/rb/hash-keyable.png)](http://badge.fury.io/rb/hash-keyable)
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org/ for releasing valuable namespace for others***
 
 Description
 ------------
@@ -52,23 +53,7 @@ p HASH.key? bar #=> true
 Requirements
 -------------
 
-* [Ruby - 2.5 or later](http://travis-ci.org/#!/kachick/hash-keyable)
-
-Install
--------
-
-```bash
-gem install hash-keyable
-```
-
-Link
-----
-
-* [code](https://github.com/kachick/hash-keyable)
-* [API](http://kachick.github.com/hash-keyable/yard/frames.html)
-* [issues](https://github.com/kachick/hash-keyable/issues)
-* [CI](http://travis-ci.org/#!/kachick/hash-keyable)
-* [gem](https://rubygems.org/gems/hash-keyable)
+Ruby - 2.5 or later
 
 License
 --------
